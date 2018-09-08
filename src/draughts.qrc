@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/title.png</file>
+        <file>icons/king-dark.png</file>
+        <file>icons/king-light.png</file>
+        <file>sounds/eat.wav</file>
+        <file>sounds/move.wav</file>
+        <file>sounds/lose.wav</file>
+        <file>sounds/win.wav</file>
+    </qresource>
+</RCC>
